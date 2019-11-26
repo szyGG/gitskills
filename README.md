@@ -1,3 +1,7 @@
 # gitskills
 Creating a new branch is quick AND simple.
-adadada
+<<<<<<< HEAD
+ad
+=======
+ad
+>>>>>>> feature1
