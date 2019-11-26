@@ -19,6 +19,7 @@
     NSLog(@"DADA");
     NSLog(@"create a new  branch is quick");
     NSLog(@"dadad");
+    NSLog(@"dadadadada");
     // Do any additional setup after loading the view.
 }
 
