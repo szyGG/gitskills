@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"DADA");
+    NSLog(@"create a new  branch is quick");
     // Do any additional setup after loading the view.
 }
 
