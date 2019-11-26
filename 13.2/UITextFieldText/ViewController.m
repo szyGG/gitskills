@@ -28,5 +28,6 @@
 - (IBAction)backTap:(id)sender {
     [self.nameField resignFirstResponder];
     [self.passField resignFirstResponder];
+    NSLog(@"son");
 }
 @end
