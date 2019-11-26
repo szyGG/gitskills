@@ -24,7 +24,7 @@
 }
 
 -(void) makeData{
-    
+    NSLog(@"da");
 }
 
 
