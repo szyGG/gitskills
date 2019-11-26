@@ -23,6 +23,9 @@
     // Do any additional setup after loading the view.
 }
 
+-(void) makeData{
+    
+}
 
 
 - (IBAction)backTap:(id)sender {
