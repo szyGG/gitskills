@@ -1,2 +1,7 @@
 # gitskills
-father
+<<<<<<< HEAD
+son
+=======
+
+son
+>>>>>>> dev
